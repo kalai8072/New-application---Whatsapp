@@ -22,3 +22,5 @@ author: Michael Kalai
 9. Added UPI transactions
 
 10. Group video call 15 Members
+
+11. Added locations options
